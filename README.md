@@ -1,7 +1,41 @@
 # NodeJS,Mongoose,Express Project in MVC Architecture
-
 **Supported version of nodejs >= 12**,
 **Supported version of mongoose >= 6**
+Version of displayed code:v1.0.1
+Last build version:v1.0.1
+Code architecture:MVC
+
+CLI Quickly generate Node APIs and models.
+
+Installation Install DhiWise Node generator with the following command.
+
+npm i -g @dhiwise/node-generator
+
+Create Model Create a single model file in the directory.
+
+dhi create-model
+
+Create API Create a single API in your specific module or platform.
+
+dhi create-api
+
+Create Module This module will contain controller, CRUD operations, and other features.
+
+dhi create-module
+
+Create Application Create boilerplate application.
+
+dhi create-app
+
+ooops
+ntegrate your source code to GitHub or GitLab or download the source code.
+Download source code Synced with
+GitHubBranch name:altlokalt/ecombackend Repo URL:https://github.com/altlokalt/ecombackend
+Commit
+
+API document
+Access your API documentation  viewdocument blob:https://app.dhiwise.com/495773bf-fd7c-4dff-8647-85d6d5e662c6
+or get the zip postman-collection from https://app.dhiwise.com/node/dashboard/641eaee842eacd0014b95eae or uploaded in google doc
 
 ## About 
 - This is a Node application, developed using MVC pattern with Node.js, ExpressJS, and Mongoose. 
@@ -118,3 +152,24 @@
 13. env files
 - You can add credentials and port, database values as per your environment(Development/Production).
 - If you are running test environment then test cases will run using test database,and its configuration is there inside app.js
+
+VS Code extension Download our VS Code extension to access and sync your application code directly to your VS Code IDE.
+
+Application token - https://app.dhiwise.com/node/dashboard/641eaee842eacd0014b95eae
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjNmNTg4ZDIyNWUyMmUwMDIzODQ5YWRiIiwiX2lkIjoiNjNmNTg4ZDIyNWUyMmUwMDIzODQ5YWRiIn0sImNvbXBhbnlJZCI6IjYzZjU4OGQyMjVlMjJlMDAyMzg0OWFkZCIsImFwcGxpY2F0aW9uSWQiOiI2NDFlYWVlODQyZWFjZDAwMTRiOTVlYWUiLCJpYXQiOjE2Nzk3MzI0NTl9.AnfuL-PtUpn6aW383ciZe3J5bxqwqCiV6nPxoL1UDYs
+
+
+Deploy application Deploy your code on sandbox or production.
+
+Deploy on production
+Take your app to production and beyond with a click.
+key
+9add-5eae.dhi.codes
+
+Deploy on sandbox
+Test your APIs before taking it to live.
+https://b95eae-kend-sandbox.dhiwise.co
+key
+b95eae-kend-sandbox.dhiwise.co
+
+
